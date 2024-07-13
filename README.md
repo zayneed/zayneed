@@ -1,7 +1,7 @@
-<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=salesp07.salesp07" />
+<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=zayneed.zayneed" />
 
 <h1 align="center">
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Pedro+Muniz!;" />
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Zayneed!;" />
 </h1>
 
 <h3 align="center">A noob software developer from Germany 🇩🇪</h3>
@@ -17,9 +17,7 @@
  </div>
  
 <div align="center"> 
-  <a href="https://www.zayneed.cloud">
-    <img src="https://icon-library.com/images/web-site-icon/web-site-icon-28.jpg" />
-  </a>
+
 </div>
 
  <hr/>

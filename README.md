@@ -10,7 +10,7 @@
 
 <div align="center">
  
- 🔭 I’m currently working on **a fortnite hackclient**
+ 🔭 I’m currently working on **a Discord bot**
  
  🌱 I’m currently learning **programming**
 

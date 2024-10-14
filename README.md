@@ -44,7 +44,7 @@
 <br/>
 
 <div align="center">
-<a href='https://www.youtube.com/watch?v=BbeeuzU5Qc8&t=1s' target='_blank'><img height='64' style='border:0px;height:64px;' src='https://logodownload.org/wp-content/uploads/2021/04/onlyfans-logo-0-2048x2048.png' border='0' alt='Subscribe to my onlyfans' /></a>
+<a href='https://www.youtube.com/watch?v=BbeeuzU5Qc8&t=1s' target='_blank'><img height='64' style='border:0px;height:64px;' src='https://vectorseek.com/wp-content/uploads/2023/08/Onlyfans-Icon-Logo-Vector.svg-.png' border='0' alt='Subscribe to my onlyfans' /></a>
 </div>
 
 <br/>

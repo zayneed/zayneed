@@ -10,9 +10,9 @@
 
 <div align="center">
  
- 🔭 I’m currently working on **a Discord bot**
+ 🔭 I’m currently working on **Rottium, a chrome based brainrot browser**
  
- 🌱 I’m currently learning **programming**
+ 🌱 I’m currently learning **c++**
 
  </div>
  

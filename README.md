@@ -10,9 +10,9 @@
 
 <div align="center">
  
- 🔭 I’m currently working on **Rottium, a chrome based brainrot browser**
+ 🔭 I’m currently working on **Rottium, a chromium based brainrot browser**
  
- 🌱 I’m currently learning **c++**
+ 🌱 I’m currently learning **.NET**
 
  </div>
  
